@@ -26,3 +26,8 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 
 ### 数据结构
 [Equinox](https://github.com/VonEquinox/Fuck-SHIEP-DataStructure-Homework)
+
+## NOTES
+请看到其他有用的上电工具帮忙更新一下README中的信息
+
+有空请帮忙将所有文件夹名字改为课程的全名
