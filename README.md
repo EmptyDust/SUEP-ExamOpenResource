@@ -27,6 +27,9 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 ### 数据结构
 [Equinox](https://github.com/VonEquinox/Fuck-SHIEP-DataStructure-Homework)
 
+### 管理信息系统
+[Themaoqiu](https://github.com/Themaoqiu/MIS-Course-Design)
+
 ## NOTES
 请看到其他有用的上电工具帮忙更新一下README中的信息
 
