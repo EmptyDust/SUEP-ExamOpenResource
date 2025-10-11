@@ -25,10 +25,19 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 [Equinox](https://github.com/VonEquinox/Fuck-SHIEP-Useless-C-Homework)
 
 ### 数据结构
-[Equinox](https://github.com/VonEquinox/Fuck-SHIEP-DataStructure-Homework)
+[EmptyDust](https://github.com/VonEquinox/Fuck-SHIEP-DataStructure-Homework)
 
 ### 管理信息系统
 [Themaoqiu](https://github.com/Themaoqiu/MIS-Course-Design)
+
+### JAVAEE
+[EmptyDust](https://github.com/EmptyDust/JavaEE-homework)
+
+### Python
+[EmptyDust](https://github.com/EmptyDust/python-homework)
+
+## 编译原理
+[EmptyDust](https://github.com/EmptyDust/Compiler-homework)
 
 ## NOTES
 请看到其他有用的上电工具帮忙更新一下README中的信息
