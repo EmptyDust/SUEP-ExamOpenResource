@@ -19,7 +19,7 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 [Equinox](https://github.com/VonEquinox/Fuck-AI-Unipus)
 
 ### 智慧树
-[Yan233th](https://github.com/Yan233th/Zhihuishu-Auto-QA)
+[Yan233th](https://github.com/Yan233th/Zhihuishu-Auto-QA) \
 [EmptyDust](https://github.com/EmptyDust/Zhihuishu-Auto-QA)
 
 ### C语言
@@ -46,4 +46,4 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 有空请帮忙将所有文件夹名字改为课程的全名
 
 
-2025年6月7日16:24:31
+2025年11月20日09:09:31
