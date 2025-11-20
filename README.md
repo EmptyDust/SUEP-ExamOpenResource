@@ -20,6 +20,7 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 
 ### 智慧树
 [Yan233th](https://github.com/Yan233th/Zhihuishu-Auto-QA)
+[EmptyDust](https://github.com/EmptyDust/Zhihuishu-Auto-QA)
 
 ### C语言
 [Equinox](https://github.com/VonEquinox/Fuck-SHIEP-Useless-C-Homework)
