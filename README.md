@@ -41,9 +41,17 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 [EmptyDust](https://github.com/EmptyDust/Compiler-homework)
 
 ## NOTES
+### 1.need more uodate
 请看到其他有用的上电工具帮忙更新一下README中的信息
 
-有空请帮忙将所有文件夹名字改为课程的全名
-
-
 2025年11月20日09:09:31
+
+### 2.贡献指南
+1.Fork 项目仓库
+
+2.在对应路径下（科目）上传复习资料
+
+3.提交 Pull Request
+
+2026年1月6日
+
