@@ -63,3 +63,13 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 5. **风险自担**：用户因使用本项目资料而产生的任何直接或间接后果（包括但不限于学业争议、版权纠纷等），由使用者本人承担。
 
 2026年1月11日
+
+### 3. Project Risks & Disclaimer
+
+1.  **Compliance with University Regulations**: The materials collected in this repository are intended for academic exchange and revision purposes only. Reviewing and studying past exam papers is a common academic practice and **does not violate university regulations**. Please ensure these materials are used solely to enhance your understanding of the coursework. Any form of academic dishonesty is strictly prohibited.
+2.  **Open-Source Nature & Source Authenticity**: This is a community-driven open-source project. All materials are voluntarily uploaded by students and contributors via Pull Requests. The project maintainers **cannot guarantee the legal provenance, copyright status, or absolute accuracy** of every file.
+3.  **Intellectual Property & Takedown Policy**: We respect intellectual property rights. If any content in this repository infringes upon your legal rights (e.g., personal courseware, copyrighted publications, etc.), please contact the maintainers with valid proof. We will remove the infringing content immediately upon verification.
+4.  **Usage Sensitivity**: Due to the nature of these materials, it is **strongly advised not to use or display this repository in sensitive environments**, such as in the presence of faculty members, during lectures, or within examination halls. Discretion is highly recommended to avoid unnecessary misunderstandings.
+5.  **Assumption of Risk**: Users assume all risks associated with the use of these materials. The maintainers shall not be held liable for any academic disputes, copyright issues, or other consequences arising from the use of this repository.
+
+2026.01.11
