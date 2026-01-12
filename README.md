@@ -7,44 +7,13 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 
 支持开源精神，减少信息差！
 
-## 其他资料库
-
-### Java课设
-[EmptyDust](https://github.com/EmptyDust/Java-2024-fengling-OnlineJudge)
-
-### 操作系统
-[EmptyDust](https://github.com/EmptyDust/OS_homework)
-
-### U校园
-[Equinox](https://github.com/VonEquinox/Fuck-AI-Unipus)
-
-### 智慧树
-[Yan233th](https://github.com/Yan233th/Zhihuishu-Auto-QA) \
-[EmptyDust](https://github.com/EmptyDust/Zhihuishu-Auto-QA)
-
-### C语言
-[Equinox](https://github.com/VonEquinox/Fuck-SHIEP-Useless-C-Homework)
-
-### 数据结构
-[EmptyDust](https://github.com/VonEquinox/Fuck-SHIEP-DataStructure-Homework)
-
-### 管理信息系统
-[Themaoqiu](https://github.com/Themaoqiu/MIS-Course-Design)
-
-### JAVAEE
-[EmptyDust](https://github.com/EmptyDust/JavaEE-homework)
-
-### Python
-[EmptyDust](https://github.com/EmptyDust/python-homework)
-
-## 编译原理
-[EmptyDust](https://github.com/EmptyDust/Compiler-homework)
-
 ## NOTES
 ### 1.need more update
-请看到其他有用的上电工具帮忙更新一下README中的信息
+~~请看到其他有用的上电工具帮忙更新一下README中的信息~~
 
-2025年11月20日09:09:31
+~~2025年11月20日09:09:31~~
+
+2026年1月11日 起不再接受上电工具更新并已删除索引，请有需要的同学自行找方式解决或联系本仓库维护团队交流。
 
 ### 2.贡献指南
 1.Fork 项目仓库
@@ -58,7 +27,7 @@ inspired by [SMU-ExamOpenResource](https://github.com/AusertDream/SMU-ExamOpenRe
 ### 3. 项目风险与免责声明
 1. **合规性说明**：本项目所收集的资料仅供学习交流和复习参考使用。根据学校相关规定，查阅、研究往年试卷或公开的复习资料属于正常的学习行为，**并不违反校规校纪**。请务必将本项目资料用于提升个人知识水平，严禁在任何形式的考试过程中违规使用。
 2. **来源合法性**：本项目为一个开源的社区驱动项目，所有资料均由学生或校友自发上传（Pull Request）。项目维护者无法对每一份资料的来源合法性、版权归属及准确性进行实时审核。
-3. **侵权处理**：本项目尊重并保护知识产权。若本项目中的任何内容侵犯了您的合法权益（如教师个人课件、未授权出版物等），请联系项目维护者并提供相关证明，我们将在确认后第一时间进行删除处理。
+3. **侵权处理**：本项目尊重并保护知识产权。若本项目中的任何内容侵犯了您的合法权益（如教师个人课件、未授权出版物、甚至是使您感到不快等），请联系项目维护者并提供相关证明，我们将在确认后第一时间进行删除处理。
 4. **使用场景建议**：本仓库旨在减少信息差，但由于其内容的特殊性，**强烈建议不要在教师陪同、课堂授课或考试现场等敏感场景下公开展示或使用本项目**。请低调使用，避免产生不必要的误解或麻烦。
 5. **风险自担**：用户因使用本项目资料而产生的任何直接或间接后果（包括但不限于学业争议、版权纠纷等），由使用者本人承担。
 
